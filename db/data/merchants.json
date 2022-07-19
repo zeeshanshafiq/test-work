@@ -1,0 +1,88 @@
+{
+"RECORDS":[
+{
+"id":"1",
+"name":"Flatley-Rowe",
+"email":"info@flatley-rowe.com",
+"cif":"B611111111"
+},
+{
+"id":"2",
+"name":"Weissnat, Hackett and Purdy",
+"email":"info@weissnat-hackett-and-purdy.com",
+"cif":"B611111112"
+},
+{
+"id":"3",
+"name":"Streich, Klocko and Marvin",
+"email":"info@streich-klocko-and-marvin.com",
+"cif":"B611111113"
+},
+{
+"id":"4",
+"name":"Pfeffer, Wiza and Jacobson",
+"email":"info@pfeffer-wiza-and-jacobson.com",
+"cif":"B611111114"
+},
+{
+"id":"5",
+"name":"Von and Sons",
+"email":"info@von-and-sons.com",
+"cif":"B611111115"
+},
+{
+"id":"6",
+"name":"Oga Inc",
+"email":"info@oga-inc.com",
+"cif":"B611111116"
+},
+{
+"id":"7",
+"name":"Mayer, Kemmer and Schumm",
+"email":"info@mayer-kemmer-and-schumm.com",
+"cif":"B611111117"
+},
+{
+"id":"8",
+"name":"Zulauf-Roberts",
+"email":"info@zulauf-roberts.com",
+"cif":"B611111118"
+},
+{
+"id":"9",
+"name":"Towne-Waelchi",
+"email":"info@towne-waelchi.com",
+"cif":"B611111119"
+},
+{
+"id":"10",
+"name":"Schoen Inc",
+"email":"info@schoen-inc.com",
+"cif":"B611111110"
+},
+{
+"id":"11",
+"name":"Dietrich-Ortiz",
+"email":"info@dietrich-ortiz.com",
+"cif":"B611111111"
+},
+{
+"id":"12",
+"name":"Lubowitz, Hessel and Berge",
+"email":"info@lubowitz-hessel-and-berge.com",
+"cif":"B611111112"
+},
+{
+"id":"13",
+"name":"Streich-Koepp",
+"email":"info@streich-koepp.com",
+"cif":"B611111113"
+},
+{
+"id":"14",
+"name":"Hodkiewicz-Stehr",
+"email":"info@hodkiewicz-stehr.com",
+"cif":"B611111114"
+}
+]
+}
